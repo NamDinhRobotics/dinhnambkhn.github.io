@@ -1,8 +1,3 @@
----
-layout: page
-title: About me
-subtitle: Happiness is only find inside of you
----
 Hello,  
 I am a Ph.D. Candidate in Control and Robot Engineering at CBNU, Korea.  
 I am also a lecturer at Vinh University, Viet Nam, from 2013.  
