@@ -5,7 +5,7 @@ I received the B.E. degree in Control and Automation Engineering from HUST, Hano
 and the M.S. Degree in Control and Automation Engineering from Le Quy Don Technical University, VietNam in 2016.  
 My researches include Multi-sensor fusion, SLAM, Optimization, Machine learning and Control systems.  
 Please look at my google site:  
-https://sites.google.com/view/dinhnam/  
+[a link](https://sites.google.com/view/dinhnam/)
 
 ### My story
 
